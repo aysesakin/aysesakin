@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aysesakin
+- 👀 I’m interested in HTML,CSS and Javascript
+- 🌱 I develop projects with HTML, CSS and Javascript.
+- 📫 How to reach me aysee.sakin@gmail.com
